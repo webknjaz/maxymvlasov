@@ -8,14 +8,14 @@ Totally: <sub><sub><sub>[![wakatime](https://wakatime.com/badge/user/953159f9-c9
 
 ## Maintainer
 
+[pre-commit-config](http://tinyurl.com/pre-commit-config) gist inculudes most useful pre-commit's for each stack
+
 [![antonbabenko/pre-commit-terraform](https://github-readme-stats.vercel.app/api/pin/?username=antonbabenko&repo=pre-commit-terraform&theme=github_dark&show_owner=true)](https://github.com/antonbabenko/pre-commit-terraform)
 [![eco-data-visualizer](https://github-readme-stats.vercel.app/api/pin/?username=MaxymVlasov&repo=eco-data-visualizer&theme=github_dark)](https://github.com/MaxymVlasov/eco-data-visualize) 
 
 Owner of Ukrainian localization team. Localization progress [tracks here](https://github.com/kubernetes-i18n-ukrainian/website)
 
 [![kubernetes/website](https://github-readme-stats.vercel.app/api/pin/?username=kubernetes&repo=website&theme=github_dark&show_owner=true)](https://github.com/kubernetes/website) 
-
-* [pre-commit-config](http://tinyurl.com/pre-commit-config) gist
 
 ### Maintainer previously
 
